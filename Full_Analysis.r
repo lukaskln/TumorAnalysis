@@ -42,10 +42,10 @@ summary(TumourSize) # Unbalanced distribution of observations inside mouse and g
 # QQ Plots before and after log transformation of Volume
 par(mfrow=c(1,2))
 
-qqnorm(Vol,pch=16,bty='n',main='Volume', col = "gray50", ylab = "Quantiles of mm³")
+qqnorm(Vol,pch=16,bty='n',main='Volume', col = "gray50", ylab = "Quantiles of mmÂ³")
 qqline(Vol,lwd=2,col= "blue")
 
-qqnorm(TumourSize$volume,pch=16,bty='n',main='Log-Volume', col = "gray50", ylab = "Quantiles of mm³")
+qqnorm(TumourSize$volume,pch=16,bty='n',main='Log-Volume', col = "gray50", ylab = "Quantiles of mmÂ³")
 qqline(TumourSize$volume,lwd=2,col= "green")
 
 # Proof of linear Relationship
@@ -145,7 +145,7 @@ boxplot(Residuals ~ groups)
 boxplot(Residuals ~ ThreeGroups)
 boxplot(Residuals ~ mouse)
 
-qqnorm(Residuals,pch=16,bty='n',main='Residuals', col = "gray50", ylab = "Quantiles of mm³")
+qqnorm(Residuals,pch=16,bty='n',main='Residuals', col = "gray50", ylab = "Quantiles of mmÂ³")
 qqline(Residuals,lwd=2,col= "blue")
 
 
