@@ -23,7 +23,7 @@
   <p align="center">
     Area of Generalized Linear Mixed Models.
     <br />
-    <a href="https://github.com/lukaskln/TumorAnalysis/Code"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/lukaskln/TumorAnalysis/tree/master/Code"><strong>Explore the Project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/lukaskln/TumorAnalysis/issues">Report Bug</a>
