@@ -23,10 +23,10 @@
   <p align="center">
     Area of Generalized Linear Mixed Models.
     <br />
-    <a href="https://github.com/lukaskln/Features-influencing-Language-Acquesition"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/lukaskln/TumorAnalysis"><strong>Explore the Project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lukaskln/Features-influencing-Language-Acquesition/issues">Report Bug</a>
+    <a href="https://github.com/lukaskln/TumorAnalysis/issues">Report Bug</a>
   </p>
 </p>
 
