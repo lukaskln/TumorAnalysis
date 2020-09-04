@@ -36,7 +36,7 @@ To determinate the effectiveness of a cancer treatment, the volume of treated an
 
 ## The Code 
 
-The code is fully in R and in one script. The "omega.r" file is a sideloaded script to compute and visualize the block correlation matrix Omega (Ω), based on the variance matrices of the fixed and random effects. For data rights reasons is the respective dataset not included in this repository. You can find all visualizations done in the code in the graphics folder.
+The code is in R and divided into the three parts: descriptive analysis, estimation & evaluation and robust estimation. The "omega.r" file is a sideloaded script to compute and visualize the block correlation matrix Omega (Ω), based on the variance matrices of the fixed and random effects. For data rights reasons is the respective dataset not included in this repository. All visualizations done in the code can be found in the graphics folder.
 
 ## Contact
 
